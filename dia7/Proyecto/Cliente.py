@@ -1,5 +1,4 @@
-from ProyectoCuentaBancaria.Persona import Persona
-from os import system
+from Persona import Persona
 
 
 class Cliente(Persona):

@@ -1,7 +1,7 @@
 # Proyecto del Dia 7: CUENTA BANCARIA
 
-from ProyectoCuentaBancaria.Cliente import Cliente
-from ProyectoCuentaBancaria.Core import *
+from Cliente import Cliente
+from Core import *
 from os import system
 
 

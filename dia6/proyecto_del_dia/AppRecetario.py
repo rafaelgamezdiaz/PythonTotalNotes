@@ -1,7 +1,6 @@
 from pathlib import Path
 from os import system
 
-
 def info_recetas():
     ruta_recetario = path_recetas()
     total = 0
